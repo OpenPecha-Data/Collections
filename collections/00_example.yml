@@ -1,0 +1,8 @@
+id: <collection-id>
+title: <title>
+works:
+  - W00000003
+  - W00000004
+instances:
+  - P000121
+  - P000131
