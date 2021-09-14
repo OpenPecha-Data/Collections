@@ -1,8 +1,8 @@
 id: <collection-id>
 title: <title>
-works:             # either work or instances collection
+works:
   - W00000003
   - W00000004
-# instances:
-#   - P000121
-#   - P000131
+instances:
+  - P000121
+  - P000131
