@@ -1,0 +1,92 @@
+id: C8A4A00F9
+title: Shantideva Titles
+works:
+  - W1PD95844
+instances:
+  - version: Open Edition
+    pecha_id: O2FCA4A99
+    bdrc-instance-id:
+    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ།
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/O2FCA4A99
+  - version: Open Edition
+    pecha_id: O061E0AF8
+    bdrc-instance-id:
+    description: བདེ་གཤེགས་འཁོར་ལོའི་སྒྲུབ་པའི་ཐབས་ཞེས་བྱ་བ
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/O061E0AF8
+  - version: Open Edition
+    pecha_id: O35231664
+    bdrc-instance-id:
+    description: བླ་མ་དམ་པ་རྣམས་ལ་ཕྱག་འཚལ་ལོ
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/O35231664
+  - version: Open Edition
+    pecha_id: O48049987
+    bdrc-instance-id:
+    description: གྲུབ་མཐའ་བདུན་བཞུགས་སོ
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/O48049987
+  - version: Open Edition
+    pecha_id: O4D608837
+    bdrc-instance-id:
+    description: བསླབ་པ་ཀུན་ལས་བཏུས་པ
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/O4D608837
+  - version: Open Edition
+    pecha_id: O88C19DF8
+    bdrc-instance-id:
+    description: འཕགས་པ་འདའ་ཀ་ཡེ་ཤེས་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོའི་འགྲེལ་པ
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/O88C19DF8
+  - version: Open Edition
+    pecha_id: O9D96B90F
+    bdrc-instance-id:
+    description: བདེ་མཆོག་འཁོར་ལོའི་ཊི་ཀ
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/O9D96B90F
+  - version: Open Edition
+    pecha_id: OA30A4DFC
+    bdrc-instance-id:
+    description: དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ཡི་གེ་བརྒྱ་པའི་བསྲུང་བ་དང་སྡིག་པ་བཤགས་པའི་ཆོ་ག
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/OA30A4DFC
+  - version: Open Edition
+    pecha_id: OC9759497
+    bdrc-instance-id:
+    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་སྨོན་ལམ་བཞུགས།
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/OC9759497
+  - version: Open Edition
+    pecha_id: OCFFFD0E0
+    bdrc-instance-id:
+    description: ལྷན་ཅིག་སྐྱེས་པའི་གླུ།
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/OCFFFD0E0
+  - version: Open Edition
+    pecha_id: OF2403C0E
+    bdrc-instance-id:
+    description: བསླབ་པ་ཀུན་ལས་བཏུས་པའི་ཚིག་ལེའུ་བྱས་པ།
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/OF2403C0E
+  - version: Open Edition
+    pecha_id: OF48161E3
+    bdrc-instance-id:
+    description: བླ་མ་རྣམས་ལ་ཕྱག་འཚལ་ལོ།
+    edition: Open
+    creation_method: diff, voting, annotation-transfer
+    manifestation: https://github.com/OpenPecha-Data/OF48161E3
+  
+  
+  
