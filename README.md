@@ -1,7 +1,7 @@
 
 # Collections
 
-List of OpenPecha data collections and corpuses:
+OpenPecha's current data collections and corpuses:
 
 ## Pecha collections
 
